@@ -12,9 +12,9 @@
 </p>
 
 <div align="center">  
-<a href="https://www.instagram.com/mthalvarez_/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%23E440?style=for-the-badge&logo=facebook&logoColor=90E1F5"</a>
-<a href="https://www.instagram.com/mthalvarez_/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%23E440?style=for-the-badge&logo=linkedin&logoColor=057DD2"</a>
-<a href="https://www.instagram.com/mthalvarez_/" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%23E440?style=for-the-badge&logo=whatsapp&logoColor=green"</a>
+<a href="https://www.facebook.com/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%23E440?style=for-the-badge&logo=facebook&logoColor=90E1F5"</a>
+<a href="https://www.linkedin.com/in/vitor-hirt-566292252/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%23E440?style=for-the-badge&logo=linkedin&logoColor=057DD2"</a>
+<a href="https://api.whatsapp.com/send?phone=5551980546291" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%23E440?style=for-the-badge&logo=whatsapp&logoColor=green"</a>
 </div> 
  
 ### Minhas Habilidades:
