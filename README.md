@@ -13,16 +13,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=VitorHirtOS&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VitorHirtOS&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VitorHirtOS&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-<div align="center">  
-<a href="https://www.instagram.com/mthalvarez_/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%23E4405F?style=for-the-badge&logo=facebook&logoColor=white"</a>
-</div> 
  
 ### Main skills:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
