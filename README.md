@@ -15,7 +15,7 @@
 </p>
 
 <div align="center">  
-<a href="https://www.instagram.com/mthalvarez_/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%0A66C2?style=for-the-badge&logo=facebook&logoColor=white"</a>
+<a href="https://www.instagram.com/mthalvarez_/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%0000ff?style=for-the-badge&logo=facebook&logoColor=white"</a>
 </div> 
  
 ### Main skills:
