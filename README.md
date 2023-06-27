@@ -2,8 +2,10 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Vitor+Mateus+Hirt;I'm+22+years+old;I+am+from+New+Hamburg,+RS+-+Brazil;I+study+analysis+and+systems+development+at+Uniasselvi;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorHirtOS&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VitorHirtOS&theme=dracula)
+
 
 <div align="center">  
 <a href="https://www.facebook.com/profile.php?id=100079710301346" target="_blank"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=blue"</a>
