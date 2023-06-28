@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F66B92&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Vitor+Mateus+Hirt;I'm+22+years+old;I+am+from+New+Hamburg,+RS+-+Brazil;I+study+analysis+and+systems+development+at+Uniasselvi;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F66B92&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Vitor+Mateus+Hirt;I'm+22+years+old;I+am+from+New+Hamburg,+RS+-+Brazil;I+study+analysis+and+systems+development+at+Uniasselvi;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorHirtOS&theme=dracula)
@@ -32,4 +32,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{VitorHirtOS}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F66B92&height=120&section=footer"/>
