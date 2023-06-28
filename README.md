@@ -13,7 +13,7 @@
 <a href="https://api.whatsapp.com/send?phone=5551980546291" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=green"</a>
 </div> 
  
-### Minhas Habilidades:
+### Estudando no Momento:
 ![C++](	https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=blue)&nbsp;
 ![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=blue)&nbsp;
 ![C#](	https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=green)&nbsp;
