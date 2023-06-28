@@ -17,6 +17,8 @@
 ![C++](	https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=blue)&nbsp;
 ![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=blue)&nbsp;
 ![C#](	https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=green)&nbsp;
+![Net](https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=.net&logoColor=yellow)&nbsp;
+![Sqlserver](https://img.shields.io/badge/Microsoft%20SQL%20Server-0D1117?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=red)&nbsp;
  
 ### Ferramentas:
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-0D1117?style=for-the-badge&logo=visual%20studio&logoColor=pink)&nbsp;
@@ -24,10 +26,6 @@
 ![Git](https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=red)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=blue)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=yellow)&nbsp;
- 
-### Outros Conhecimentos:
-![Net](https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=.net&logoColor=yellow)&nbsp;
-![Sqlserver](https://img.shields.io/badge/Microsoft%20SQL%20Server-0D1117?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=red)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
