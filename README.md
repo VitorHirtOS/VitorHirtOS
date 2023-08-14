@@ -32,11 +32,13 @@
 ![Sql](https://img.shields.io/badge/Microsoft_SQL_Server-0D1117?style=for-the-badge&logo=microsoft-sql-server&logoColor=red)&nbsp; 
 ![Word](https://img.shields.io/badge/Microsoft_Word-0D1117?style=for-the-badge&logo=microsoft-word&logoColor=blue)&nbsp; 
 ![Net](https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=.net&logoColor=green)&nbsp; 
+![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=brown)&nbsp; 
 
 ### Tools:
 ![Microsft Office](https://img.shields.io/badge/Microsoft_Office-0D1117?style=for-the-badge&logo=microsoft-office&logoColor=orange)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-0D1117?style=for-the-badge&logo=visual%20studio&logoColor=pink)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)&nbsp;
+![Trello](https://img.shields.io/badge/Trello-0D1117?style=for-the-badge&logo=trello&logoColor=blue)&nbsp;
 
 ### Operational systems:
 
