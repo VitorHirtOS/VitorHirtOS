@@ -26,6 +26,7 @@
  ### Main skills:
 ![C#](https://img.shields.io/badge/-C_sharp-0D1117?style=for-the-badge&logo=Csharp&labelColor=0D1117&logoColor=green)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=blue)&nbsp;
+![C++](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=blue)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=blue&labelColor=0D1117)&nbsp;
 ![Html](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=orangered)&nbsp; 
