@@ -29,7 +29,6 @@
 ![Html](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=orangered)&nbsp; 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=purple)&nbsp;
 ![Sql](https://img.shields.io/badge/Microsoft_SQL_Server-0D1117?style=for-the-badge&logo=microsoft-sql-server&logoColor=red)&nbsp; 
-![Word](https://img.shields.io/badge/Microsoft_Word-0D1117?style=for-the-badge&logo=microsoft-word&logoColor=blue)&nbsp; 
 ![Net](https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=.net&logoColor=green)&nbsp; 
 ![Kali](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kali-linux&logoColor=blue)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=brown)&nbsp; 
