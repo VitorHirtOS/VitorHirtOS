@@ -25,13 +25,9 @@
  
  ### Main skills:
 ![C#](https://img.shields.io/badge/-C_sharp-0D1117?style=for-the-badge&logo=Csharp&labelColor=0D1117&logoColor=green)&nbsp;
-![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=blue)&nbsp;
-![C++](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
-![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=blue)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=blue&labelColor=0D1117)&nbsp;
 ![Html](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=orangered)&nbsp; 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=purple)&nbsp;
-![Sass](https://img.shields.io/badge/Sass-0D1117?style=for-the-badge&logo=sass&logoColor=pink)&nbsp; 
 ![Sql](https://img.shields.io/badge/Microsoft_SQL_Server-0D1117?style=for-the-badge&logo=microsoft-sql-server&logoColor=red)&nbsp; 
 ![Word](https://img.shields.io/badge/Microsoft_Word-0D1117?style=for-the-badge&logo=microsoft-word&logoColor=blue)&nbsp; 
 ![Net](https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=.net&logoColor=green)&nbsp; 
