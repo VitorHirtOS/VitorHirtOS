@@ -14,7 +14,6 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VitorHirtOS&show_icons=true&count_private=true&hide_border=true&title_color=ffc58a&icon_color=ffc58a&text_color=ffc58a&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorHirtOS&layout=compact&hide_border=true&title_color=ffc58a&text_color=ffc58a&bg_color=0d1117" />
 </div>
 
 
@@ -36,8 +35,6 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=purple)&nbsp;
 ![Sql](https://img.shields.io/badge/Microsoft_SQL_Server-0D1117?style=for-the-badge&logo=microsoft-sql-server&logoColor=red)&nbsp; 
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=blue)&nbsp; 
-
-
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)&nbsp;
