@@ -23,10 +23,10 @@
  </div>
  
  ### Main skills:
-![Javascript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=yellow)&nbsp;
-![NodeJS](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=green)&nbsp;
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=blue)&nbsp; 
-![Django](https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=green)&nbsp; 
+![CSharp](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=purple)&nbsp;
+![Net](https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=.net&logoColor=green)&nbsp;
+![Net](https://img.shields.io/badge/Spring-0D1117?style=for-the-badge&logo=spring&logoColor=green)&nbsp;
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=orangered)&nbsp;
 ![Html](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=orangered)&nbsp; 
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=blue&labelColor=0D1117)&nbsp;
 ![Sass](https://img.shields.io/badge/Sass-0D1117?style=for-the-badge&logo=sass&logoColor=pink)&nbsp;
