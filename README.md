@@ -23,7 +23,8 @@
  </div>
  
  ### Main skills:
-![CSharp](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=purple)&nbsp;
+![CSharp](https://img.shields.io/badge/CSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=green)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=blue)&nbsp;
 ![Net](https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=.net&logoColor=green)&nbsp;
 ![Net](https://img.shields.io/badge/Spring-0D1117?style=for-the-badge&logo=spring&logoColor=green)&nbsp;
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=orangered)&nbsp;
